@@ -127,7 +127,7 @@ The credentials that were made earlier are now being used to access the DC-1 vir
 <br />
 
 <p>
-<img src="https://i.gyazo.com/ccb40386f626a81622f5a331e1ef3c05.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/d0e006e787c9fe535ff134c8db384270.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Similar to DC-1, the same process will be done for Client-1.
@@ -143,7 +143,7 @@ Here we are logged into Client-1. To start the process of ensuring connectivity,
 <br />
 
 <p>
-<img src="https://i.gyazo.com/3e08c1a6efb73671cbca448b1c38a624.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/9e1c71b4cbee27f0f96229eeac896b7f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Here we have opened windows defender firewall with advanced security and will attempt to enable some inbound rules. You'll notice the acronym ICMP which is the Internet Control Messaging Protocol is a network layer protocol. It's mainly used to determine whether or not data is reaching it's intended destination.
@@ -167,7 +167,7 @@ As you can see, when we switch to CLient-1 and observe the command prompt, we ar
 <br />
 
 <p>
-<img src="https://i.gyazo.com/8d74790da91fd34962022ebe52bd8131.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/98939c5af6247cbc6876fc09ded55b51.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Here "CTRL + C" was used to stop the continuous pinging.
