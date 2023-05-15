@@ -421,22 +421,22 @@ Open command prompt and type in "hostname" to verify that Jane Doe is the user.
 <img src="https://i.gyazo.com/00c27f1b1cd3878f65f67ce40bd6fbe6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the following steps, we are going to join Client-1 to DC-1. In order to do this, we will go back to the Azure portal and change Client-1's DNS settings to DC-1's private IP address.
+In the following steps, we are going to join Client-1 to DC-1. In order to do this, we will go back to the Azure portal and change Client-1's DNS settings to DC-1's private IP address. We will start the process by clicking "Network Interface".
 </p>
 <br />
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/10fd87faeaa08d689165b15531a342c2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After clikcing "Network Interface", we will select "DNS Servers" then pick "Custom".
 </p>
 <br />
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/b71265c863184241162143a77fb51ce4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
