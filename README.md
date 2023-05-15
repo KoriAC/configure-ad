@@ -343,10 +343,10 @@ We will right click on the domain name, scroll down to "New" and select "Organiz
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/7ad8f6c1a825ea82bb104fec20d21e98.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The name of this organizational unit will be "_EMPLOYEES", since this is where we are going to generate random users in this organizational unit.
 </p>
 <br />
 
