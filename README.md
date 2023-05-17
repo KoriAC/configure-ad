@@ -537,10 +537,18 @@ After the script is copied into Windows Powershell, click the green play button 
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/77a4c2e3925f19c1476a1c971d6e7283.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click on "Change" to start the process to renmae the PC. Once this is done, we're going to add Client-1 to the domain then click "OK".
+As you can see, the script has generated random users into the "_EMPLOYEES" organizational unit.
+</p>
+<br />
+
+<p>
+<img src="https://i.gyazo.com/14cc13cd117e66995ca93b93b5671349.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+A random user will be selected to verify that we can access Client-1 using their credentials. We will go on properties to copy the user's login credentials.
 </p>
 <br />
 
@@ -548,15 +556,7 @@ Click on "Change" to start the process to renmae the PC. Once this is done, we'r
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click on "Change" to start the process to renmae the PC. Once this is done, we're going to add Client-1 to the domain then click "OK".
-</p>
-<br />
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Click on "Change" to start the process to renmae the PC. Once this is done, we're going to add Client-1 to the domain then click "OK".
+C".
 </p>
 <br />
 
