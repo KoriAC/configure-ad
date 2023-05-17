@@ -553,65 +553,26 @@ A random user will be selected to verify that we can access Client-1 using their
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/19bcbf268bfd624f0be64dcb0c40c269.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-C".
+Copy the username and use the password that was listed in the script.
 </p>
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/13e6892daaaacd960d5616ce027bbe18.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click on "Change" to start the process to renmae the PC. Once this is done, we're going to add Client-1 to the domain then click "OK".
+Enter the user's credentials.
 </p>
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/43bd404c633a75d1afd219b664aadd60.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click on "Change" to start the process to renmae the PC. Once this is done, we're going to add Client-1 to the domain then click "OK".
+Once logged in, you can open command prompt to verify that the login was successful.
 </p>
 <br />
 
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Click on "Change" to start the process to renmae the PC. Once this is done, we're going to add Client-1 to the domain then click "OK".
-</p>
-<br />
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Click on "Change" to start the process to renmae the PC. Once this is done, we're going to add Client-1 to the domain then click "OK".
-</p>
-<br />
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Click on "Change" to start the process to renmae the PC. Once this is done, we're going to add Client-1 to the domain then click "OK".
-</p>
-<br />
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Click on "Change" to start the process to renmae the PC. Once this is done, we're going to add Client-1 to the domain then click "OK".
-</p>
-<br />
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Click on "Change" to start the process to renmae the PC. Once this is done, we're going to add Client-1 to the domain then click "OK".
-</p>
-<br />
