@@ -72,7 +72,7 @@ Here is where the virtual machines will be created. The "Azure virtual machine" 
 <br />
 
 <p>
-<img src="https://i.gyazo.com/e60db5e26c3ced397b779fd79f07b7a5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/ac7ca47d4f1c67ddf0c83aa7fffdb02c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The virtual machine here is named "DC-1" which will act as the domain controller.
@@ -80,10 +80,26 @@ The virtual machine here is named "DC-1" which will act as the domain controller
 <br />
 
 <p>
-<img src="https://i.gyazo.com/140212dd82b1671ae52d860760662465.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/91f419b673c381dff7d40e1231ebd348.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The creation of DC-1 username and password. For the "Image", we are choosing "Windows Server 2022".
+</p>
+<br />
+
+<p>
+<img src="https://i.gyazo.com/880cf666c0a1174c71b38a8c988c6f8f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The virtual machine here is named "Client-1" which will act as the client.
+</p>
+<br />
+
+<p>
+<img src="https://i.gyazo.com/1cdfb70554aee94c356f6cb676d72196.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Similar to DC-1, we are creating a username and password. Additionally, the operating system for Client-1 will be Windows 10.
 </p>
 <br />
 
